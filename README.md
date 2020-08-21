@@ -40,11 +40,11 @@ https://www.linkedin.com/in/gerald-ryan-0007/
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
+          <tr valign="top">
       <td width="25%" align="center">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
