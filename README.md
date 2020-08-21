@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on ...
 
 Bridges for Prosperity Not for Profit Web tool.
-Shopping cart website for local tshirt business Shoyo. 
+
+E-commerce website for local business. 
 
 - 🌱 I’m currently learning ...
 
