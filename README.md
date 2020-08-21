@@ -9,7 +9,7 @@ E-commerce website for local business.
 
 - 🌱 I’m currently learning ...
 
-React, Python and C. Love that low level code. 
+React, Python and C. Love that low level code. Differential Equations for the fun of it. 
 
 - 👯 I’m looking to collaborate on ...
 
