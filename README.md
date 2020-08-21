@@ -29,7 +29,7 @@ Exciting business projects. Love working in the business realm.
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
+        <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
@@ -47,6 +47,10 @@ Exciting business projects. Love working in the business realm.
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
+      <td width="25%" align="center">
+        <span>𝗖</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
   </tbody>
 </table>
 
