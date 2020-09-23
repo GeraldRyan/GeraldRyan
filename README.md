@@ -3,20 +3,19 @@
 
 - 🔭 I’m currently working on ...
 
-Bridges for Prosperity Not for Profit Web tool.
-
-E-commerce website for local business. 
+[Bridges for Prosperity](https://main.dvxfvrn3mdjg1.amplifyapp.com/)
 
 - 🌱 I’m currently learning ...
 
-React, Python and C. Love that low level code. Differential Equations for the fun of it. 
+React and Next, Python and Datascience and C.
 
 - 👯 I’m looking to collaborate on ...
 
-Exciting business projects. Love working in the business realm. 
+Developing Full Stack Websites as well as business projects.
 
-- 📫 How to reach me: ...
-https://www.linkedin.com/in/gerald-ryan-0007/
+- 📫 How to reach me: 
+
+[LinkedIn](https://www.linkedin.com/in/gerald-ryan-0007/)
 
 <!--
 **GeraldRyan/GeraldRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,8 +53,8 @@ https://www.linkedin.com/in/gerald-ryan-0007/
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+        <span>Nextjs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </td>
            </tr>
   </tbody>
