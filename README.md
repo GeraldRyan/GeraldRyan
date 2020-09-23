@@ -1,17 +1,19 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on:
 
 [Bridges for Prosperity](https://main.dvxfvrn3mdjg1.amplifyapp.com/)
 
-- 🌱 I’m currently learning ...
+[Portfolio Webpage](https://www.geraldryan.dev)
+
+- 🌱 I’m currently learning:
 
 React and Next, Python and Datascience and C.
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on:
 
-Developing Full Stack Websites as well as business projects.
+Developing Full Stack Websites.
 
 - 📫 How to reach me: 
 
