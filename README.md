@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning:
 
-React and Next, Python and Datascience and C.
+C, C++, Python and Data Structures.
 
 - 👯 I’m looking to collaborate on:
 
