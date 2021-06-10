@@ -9,13 +9,9 @@
 
 - 🌱 I’m currently learning:
 
-C, C++, Python and Data Structures.
+Java, Kubernetes, Bash, Docker, Vim, Jenkins, Groovy, Python, Typescript
 
-- 👯 I’m looking to collaborate on:
-
-Developing Full Stack Websites.
-
-- 📫 How to reach me: 
+- How to reach me: 
 
 [LinkedIn](https://www.linkedin.com/in/gerald-ryan-0007/)
 
