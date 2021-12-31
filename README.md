@@ -27,80 +27,81 @@ Java, Kubernetes, Bash, Docker, Vim, Jenkins, Groovy, Python, Typescript
 <table>
     <tbody>
         <tr valign="top">
-            <td width="33%" align="center">
+            <td width="25%" align="center">
                 <span>Java</span><br><br>
-                <img height="96px" src="https://cdn.svgporn.com/logos/java.svg">
+                <img height="80px" src="https://cdn.svgporn.com/logos/java.svg">
             </td>
-            <td width="33%" align="center">
+            <td width="25%" align="center">
                 <span>Spring</span><br><br>
-                <img height="96px" src="https://cdn.svgporn.com/logos/spring-icon.svg">
+                <img height="80px" src="https://cdn.svgporn.com/logos/spring-icon.svg">
             </td>
-            <td width="33%" align="center">
+            <td width="25%" align="center">
                 <span>Gradle</span><br><br>
-                <img height="96px" src="https://cdn.svgporn.com/logos/gradle.svg">
+                <img height="80px" src="https://cdn.svgporn.com/logos/gradle.svg">
             </td>
-        </tr>
-        <tr valign="top">
-            <td width="33%" align="center">
-                <span>Angular</span><br><br>
-                <img height="96px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
-            </td>
-            <td width="33%" align="center">
-                <span>TypeScript</span><br><br>
-                <img height="96px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-            </td>
-            <td width="33%" align="center">
-                <span>Storybook</span><br><br>
-                <img height="96px" src="https://cdn.svgporn.com/logos/storybook-icon.svg">
-            </td>
-        <tr valign="top">
-            <td width="33%" align="center">
+            <td width="25%" align="center">
                 <span>Docker</span><br><br>
-                <img height="96px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-            </td>
-            <td width="33%" align="center">
-                <span>Kubernetes</span><br><br>
-                <img height="96px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
-            </td>
-            <td width="33%" align="center">
-                <span>Helm</span><br><br>
-                <img height="96px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodeblog.dotsandbrackets.com%2Fwp-content%2Fuploads%2F2018%2F07%2Fhelm-logo.jpg&f=1&nofb=1">
+                <img height="80px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
             </td>
         </tr>
         <tr valign="top">
-            <td width="33%" align="center">
+            <td width="25%" align="center">
+                <span>Angular</span><br><br>
+                <img height="80px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>TypeScript</span><br><br>
+                <img height="80px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>Storybook</span><br><br>
+                <img height="80px" src="https://cdn.svgporn.com/logos/storybook-icon.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>Kubernetes</span><br><br>
+                <img height="80px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
+            </td>
+        <tr valign="top">
+            <td width="25%" align="center">
                 <span>Kafka</span><br><br>
-                <img height="96px" src="https://cdn.svgporn.com/logos/kafka-icon.svg">
+                <img height="80px" src="https://cdn.svgporn.com/logos/kafka-icon.svg">
             </td>
-            <td width="33%" align="center">
+            <td width="25%" align="center">
                 <span>GraphQL</span><br><br>
-                <img height="96px" src="https://cdn.svgporn.com/logos/graphql.svg">
+                <img height="80px" src="https://cdn.svgporn.com/logos/graphql.svg">
             </td>
-            <td width="33%" align="center">
+            <td width="25%" align="center">
                 <span>SQL</span><br><br>
-                <img height="96px" src="https://cdn.svgporn.com/logos/mariadb-icon.svg">
+                <img height="80px" src="https://cdn.svgporn.com/logos/mariadb-icon.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>Bash</span><br><br>
+                <img height="80px" src="https://cdn.svgporn.com/logos/bash-icon.svg">
             </td>
         </tr>
     </tbody>
 </table>
 
 
-## Interests
-
+## Learning Interests
 <table>
     <tbody>
         <tr valign="top">
-            <td width="33%" align="center">
-                <span>Go</span><br><br>
-                <img height="96px" src="https://cdn.svgporn.com/logos/gopher.svg">
-            </td>
-            <td width="33%" align="center">
-                <span>Python</span><br><br>
-                <img height="96px" src="https://cdn.svgporn.com/logos/python.svg">
-            </td>
-            <td width="33%" align="center">
+            <td width="25%" align="center">
                 <span>Neo4J</span><br><br>
-                <img height="96px" src="https://cdn.svgporn.com/logos/neo4j.svg">
+                <img height="80px" src="https://cdn.svgporn.com/logos/neo4j.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>Go</span><br><br>
+                <img height="80px" src="https://cdn.svgporn.com/logos/gopher.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>Python</span><br><br>
+                <img height="80px" src="https://cdn.svgporn.com/logos/python.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>λ Programming</span><br><br>
+                <img height="80px" src="https://cdn.svgporn.com/logos/scala.svg">
             </td>
         </tr>
     </tbody>
