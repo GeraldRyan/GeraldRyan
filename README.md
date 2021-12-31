@@ -28,56 +28,56 @@ Java, Kubernetes, Bash, Docker, Vim, Jenkins, Groovy, Python, Typescript
     <tbody>
         <tr valign="top">
             <td width="33%" align="center">
-                <span>Java</span><br><br><br>
+                <span>Java</span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
             </td>
             <td width="33%" align="center">
-                <span>Spring</span><br><br><br>
+                <span>Spring</span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/spring-icon.svg">
             </td>
             <td width="33%" align="center">
-                <span>Gradle</span><br><br><br>
+                <span>Gradle</span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
             </td>
         </tr>
         <tr valign="top">
             <td width="33%" align="center">
-                <span>Angular</span><br><br><br>
+                <span>Angular</span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
             </td>
             <td width="33%" align="center">
-                <span>TypeScript</span><br><br><br>
+                <span>TypeScript</span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
             </td>
             <td width="33%" align="center">
-                <span>Storybook</span><br><br><br>
+                <span>Storybook</span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/storybook-icon.svg">
             </td>
         <tr valign="top">
             <td width="33%" align="center">
-                <span>Docker</span><br><br><br>
+                <span>Docker</span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
             </td>
             <td width="33%" align="center">
-                <span>Kubernetes</span><br><br><br>
+                <span>Kubernetes</span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
             </td>
             <td width="33%" align="center">
-                <span>Helm</span><br><br><br>
+                <span>Helm</span><br><br>
                 <img height="64px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodeblog.dotsandbrackets.com%2Fwp-content%2Fuploads%2F2018%2F07%2Fhelm-logo.jpg&f=1&nofb=1">
             </td>
         </tr>
         <tr valign="top">
             <td width="33%" align="center">
-                <span>Kafka</span><br><br><br>
+                <span>Kafka</span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/kafka-icon.svg">
             </td>
             <td width="33%" align="center">
-                <span>GraphQL</span><br><br><br>
+                <span>GraphQL</span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
             </td>
             <td width="33%" align="center">
-                <span>SQL</span><br><br><br>
+                <span>SQL</span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/mariadb-icon.svg">
             </td>
         </tr>
@@ -91,15 +91,15 @@ Java, Kubernetes, Bash, Docker, Vim, Jenkins, Groovy, Python, Typescript
     <tbody>
         <tr valign="top">
             <td width="33%" align="center">
-                <span>Go</span><br><br><br>
+                <span>Go</span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/gopher.svg">
             </td>
             <td width="33%" align="center">
-                <span>Python</span><br><br><br>
+                <span>Python</span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
             </td>
             <td width="33%" align="center">
-                <span>Neo4J</span><br><br><br>
+                <span>Neo4J</span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/neo4j.svg">
             </td>
         </tr>
