@@ -4,7 +4,7 @@ Welcome to my humble corner.
 
 I am a professional software engineer.
 
-On my GitHub you'll find mostly clutter and some useful things. 
+On my GitHub you'll find mostly clutter but a few interesting things. 
 
 🔭 A long time ago, at [a bootcamp far far away](https://www.lambdaschool.com), I made [some things](https://www.geraldryan.dev):
 
