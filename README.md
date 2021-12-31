@@ -1,27 +1,19 @@
-### Hello World
+SGVsbG8gV29ybGZ
+
+Welcome to my humble corner. 
+
+I am a professional software engineer.
+
+On my GitHub you'll find mostly clutter and some useful things. 
+
+🔭 A long time ago, at [a bootcamp far far away](https://www.lambdaschool.com), I made [some things](https://www.geraldryan.dev):
+
+I am working on some interesting side projects but they are just in the early stages. I will share soon..
+
+Reach me @ [LinkedIn](https://www.linkedin.com/in/gerald-ryan-0007/)
 
 
-- 🔭 I’m currently working on:
 
-[Bridges for Prosperity](https://main.dvxfvrn3mdjg1.amplifyapp.com/)
-
-[Portfolio Webpage](https://www.geraldryan.dev)
-
-- 🌱 I’m currently learning:
-
-Java, Kubernetes, Bash, Docker, Vim, Jenkins, Groovy, Python, Typescript
-
-- How to reach me: 
-
-[LinkedIn](https://www.linkedin.com/in/gerald-ryan-0007/)
-
-<!--
-**GeraldRyan/GeraldRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- ⚡ Fun fact: ...
--->
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <table>
@@ -108,6 +100,21 @@ Java, Kubernetes, Bash, Docker, Vim, Jenkins, Groovy, Python, Typescript
 </table>
 
 
+   
+
+
+
+
+
+
+
+
+  
+
 <!--
 **GeraldRyan/GeraldRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+
+- ⚡ Fun fact: ...
 -->
