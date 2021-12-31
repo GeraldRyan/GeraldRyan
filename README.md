@@ -24,40 +24,87 @@ Java, Kubernetes, Bash, Docker, Vim, Jenkins, Groovy, Python, Typescript
 -->
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
-
 <table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-     </tr>
-     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Nextjs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
-      </td>
-           </tr>
-  </tbody>
+    <tbody>
+        <tr valign="top">
+            <td width="25%" align="center">
+                <span>Java</span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>Spring</span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/spring-icon.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>Gradle</span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="25%" align="center">
+                <span>Angular</span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>TypeScript</span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>Storybook</span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/storybook-icon.svg">
+            </td>
+        <tr valign="top">
+            <td width="25%" align="center">
+                <span>Docker</span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>Kubernetes</span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>Helm</span><br><br><br>
+                <img height="64px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodeblog.dotsandbrackets.com%2Fwp-content%2Fuploads%2F2018%2F07%2Fhelm-logo.jpg&f=1&nofb=1">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="25%" align="center">
+                <span>Kafka</span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/kafka-icon.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>GraphQL</span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>SQL</span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/mariadb-icon.svg">
+            </td>
+        </tr>
+    </tbody>
 </table>
 
+
+## Interests
+
+<table>
+    <tbody>
+        <tr valign="top">
+            <td width="25%" align="center">
+                <span>Go</span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/gopher.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>Python</span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>Neo4J</span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/neo4j.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 <!--
