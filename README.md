@@ -8,8 +8,6 @@ On my GitHub you'll find mostly clutter but a few interesting things.
 
 🔭 A long time ago, at [a bootcamp far far away](https://www.lambdaschool.com), I made [some things](https://www.geraldryan.dev):
 
-I am working on some interesting side projects but they are in the early stages. May share later
-
 Reach me @ [LinkedIn](https://www.linkedin.com/in/gerald-ryan-0007/)
 
 
