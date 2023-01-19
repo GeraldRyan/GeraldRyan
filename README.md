@@ -39,26 +39,7 @@ Reach me @ [LinkedIn](https://www.linkedin.com/in/gerald-ryan-0007/)
 
 ## Learning Interests
 <table>
-    <tbody>
-        <tr valign="top">
-            <td width="25%" align="center">
-                <span>Neo4J</span><br><br>
-                <img height="80px" src="https://cdn.svgporn.com/logos/neo4j.svg">
-            </td>
-            <td width="25%" align="center">
-                <span>Go</span><br><br>
-                <img height="80px" src="https://cdn.svgporn.com/logos/gopher.svg">
-            </td>
-            <td width="25%" align="center">
-                <span>Python</span><br><br>
-                <img height="80px" src="https://cdn.svgporn.com/logos/python.svg">
-            </td>
-            <td width="25%" align="center">
-                <span>λ Programming</span><br><br>
-                <img height="80px" src="https://cdn.svgporn.com/logos/scala.svg">
-            </td>
-        </tr>
-    </tbody>
+
 </table>
 
 
