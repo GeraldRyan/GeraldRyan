@@ -13,7 +13,7 @@ Reach me @ [LinkedIn](https://www.linkedin.com/in/gerald-ryan-0007/)
 
 
 
-## Some things I use
+## Some things I use for my day job
 <table>
     <tbody>
         <tr valign="top">
@@ -26,8 +26,8 @@ Reach me @ [LinkedIn](https://www.linkedin.com/in/gerald-ryan-0007/)
                 <img height="80px" src="https://cdn.svgporn.com/logos/spring-icon.svg">
             </td>
             <td width="25%" align="center">
-                <span>Angular</span><br><br>
-                <img height="80px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
+                <span>Python</span><br><br>
+                <img height="80px" src="https://cdn.svgporn.com/logos/python.svg">
             </td>
             <td width="25%" align="center">
                 <span>TypeScript</span><br><br>
@@ -36,12 +36,28 @@ Reach me @ [LinkedIn](https://www.linkedin.com/in/gerald-ryan-0007/)
     </tbody>
 </table>
 
-
-## Learning Interests
+## Things I am interested in
 <table>
-
+    <tbody>
+        <tr valign="top">
+            <td width="25%" align="center">
+                <span>Rust</span><br><br>
+                <img height="80px" src="https://cdn.svgporn.com/logos/rust.svg">
+            </td>
+            <td width="25%" align="center">
+                <span>Math</span><br><br>
+                <img height="80px" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ca8126a83854341d5bf75e907ee4e12b9d4aeb20">
+            </td>
+            <td width="25%" align="center">
+                <span>Engineering</span><br><br>
+                <img height="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Anchor_escapement_animation_217x328px.gif">
+            </td>
+            <td width="25%" align="center">
+                <span>?????</span><br><br>
+                <img height="80px" src="https://static.vecteezy.com/system/resources/previews/000/258/929/original/vector-beautiful-dark-green-texture-background.jpg">
+            </td>
+    </tbody>
 </table>
-
 
    
 
